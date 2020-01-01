@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDesertModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DesertModel>
+    <Name>HOT CHOC FUDGE BROWNIES</Name>
+    <SmallImagePath>Images/DesertSmall/Brownie.png</SmallImagePath>
+    <Energy>1930</Energy>
+    <Price>6.00</Price>
+    <Options>
+      <DesertModel>
+        <Name>HOT CHOC FUDGE BROWNIES</Name>
+        <LargeImagePath>Images/DesertLarge/Brownie1.png</LargeImagePath>
+        <Energy>1930</Energy>
+        <Description>6 pieces of delicious Hot Choc Fudge Brownies with a decadent chocolate dipping sauce.</Description>
+        <Price>6.00</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+
+  <DesertModel>
+    <Name>SALTED CARAMEL SUNDAE</Name>
+    <SmallImagePath>Images/DesertSmall/CaramelSundae.png</SmallImagePath>
+    <Energy>1340</Energy>
+    <Price>3.00</Price>
+    <Options>
+      <DesertModel>
+        <Name>SALTED CARAMEL SUNDAE</Name>
+        <LargeImagePath>Images/DesertLarge/CaramelSundae1.png</LargeImagePath>
+        <Energy>1340</Energy>
+        <Description>Single serve of classic vanilla ice-cream with a salted caramel sauce.</Description>
+        <Price>3.00</Price>
+      </DesertModel>
+      <DesertModel>
+        <Name>SALTED CARAMEL SUNDAE 4 PACK</Name>
+        <LargeImagePath>Images/DesertLarge/CaramelSundae2.png</LargeImagePath>
+        <Energy>5360</Energy>
+        <Description>4 individual serves of vanilla ice cream with salted caramel sauce.</Description>
+        <Price>10.00</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+
+  <DesertModel>
+    <Name>OVEN BAKED CHURROS</Name>
+    <SmallImagePath>Images/DesertSmall/Churros.png</SmallImagePath>
+    <Energy>2140</Energy>
+    <Price>6.00</Price>
+    <Options>
+      <DesertModel>
+        <Name>CHURROS 4 PACK</Name>
+        <LargeImagePath>Images/DesertLarge/Churros1.png</LargeImagePath>
+        <Energy>2140</Energy>
+        <Description>4 x oven baked Churros dusted with cinnamon sugar and served with a chocolate dipping sauce.</Description>
+        <Price>6.00</Price>
+      </DesertModel>
+      <DesertModel>
+        <Name>CHURROS 12 PACK</Name>
+        <LargeImagePath>Images/DesertLarge/Churros1.png</LargeImagePath>
+        <Energy>5590</Energy>
+        <Description>12 x oven baked Churros dusted with cinnamon sugar and served with a chocolate dipping sauce.</Description>
+        <Price>12.00</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+
+  <DesertModel>
+    <Name>SALTED CARAMEL CHOCOLATE MOUSSE</Name>
+    <SmallImagePath>Images/DesertSmall/ChocMousse.png</SmallImagePath>
+    <Energy>1600</Energy>
+    <Price>4.30</Price>
+    <Options>
+      <DesertModel>
+        <Name>SALTED CARAMEL CHOCOLATE MOUSSE</Name>
+        <LargeImagePath>Images/DesertLarge/ChocMousse1.png</LargeImagePath>
+        <Energy>1600</Energy>
+        <Description>Rich creamy Chocolate mousse with gooey, salted caramel sauce.</Description>
+        <Price>4.30</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+
+  <DesertModel>
+    <Name>CHOC LAVA CAKE</Name>
+    <SmallImagePath>Images/DesertSmall/ChocLavaCake.png</SmallImagePath>
+    <Energy>1710</Energy>    
+    <Price>5.00</Price>
+    <Options>
+      <DesertModel>
+        <Name>CHOC LAVA CAKE</Name>
+        <LargeImagePath>Images/DesertLarge/ChocLavaCake1.png</LargeImagePath>
+        <Energy>1710</Energy>
+        <Description>The luscious gooey middle oozes with rich chocolate. Each one is lovingly baked fresh in store.</Description>
+        <Price>5.00</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+  
+  <DesertModel>
+    <Name>CHOC SUNDAE</Name>
+    <SmallImagePath>Images/DesertSmall/ChocSundaes.png</SmallImagePath>
+    <Energy>1340</Energy>
+    <Price>3.00</Price>
+    <Options>
+      <DesertModel>
+        <Name>CHOC SUNDAE</Name>
+        <LargeImagePath>Images/DesertLarge/ChocSundaes1.png</LargeImagePath>
+        <Energy>1340</Energy>
+        <Description>Single serve of classic vanilla ice-cream with a decadent chocolate sauce. The perfect addition to your favourite dessert!</Description>
+        <Price>3.00</Price>
+      </DesertModel>
+      <DesertModel>
+        <Name>CHOC SUNDAES 4 PACK</Name>
+        <LargeImagePath>Images/DesertLarge/ChocSundaes2.png</LargeImagePath>
+        <Energy>5360</Energy>
+        <Description>4 individual serves of vanilla ice-cream with a decadent chocolate sauce.</Description>
+        <Price>10.00</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+
+  <DesertModel>
+    <Name>MINI DUTCH PANCAKES</Name>
+    <SmallImagePath>Images/DesertSmall/DutchPancake.png</SmallImagePath>
+    <Energy>2300</Energy>
+    <Price>4.20</Price>
+    <Options>
+      <DesertModel>
+        <Name>MINI DUTCH PANCAKES</Name>
+        <LargeImagePath>Images/DesertLarge/DutchPancake1.png</LargeImagePath>
+        <Energy>2300</Energy>
+        <Description>12 pack of Mini Dutch Pancakes, dusted with icing sugar.</Description>
+        <Price>4.20</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+  
+  <DesertModel>
+    <Name>COOKIES &amp; CREAM SUNDAE</Name>
+    <SmallImagePath>Images/DesertSmall/CookiesSundae.png</SmallImagePath>
+    <Energy>1570</Energy>
+    <Price>3.00</Price>
+    <Options>
+      <DesertModel>
+        <Name>COOKIES &amp; CREAM SUNDAE</Name>
+        <LargeImagePath>Images/DesertLarge/CookiesSundae1.png</LargeImagePath>
+        <Energy>1570</Energy>
+        <Description>Single serve of classic vanilla ice cream, layered with crumbled cookie.</Description>
+        <Price>3.00</Price>
+      </DesertModel>
+      <DesertModel>
+        <Name>COOKIES &amp; CREAM SUNDAE 4 PACK</Name>
+        <LargeImagePath>Images/DesertLarge/CookiesSundae2.png</LargeImagePath>
+        <Energy>6280</Energy>
+        <Description>4 individual serves of vanilla ice cream, layered with crumbled cookie.</Description>
+        <Price>10.00</Price>
+      </DesertModel>
+    </Options>
+  </DesertModel>
+
+</ArrayOfDesertModel>

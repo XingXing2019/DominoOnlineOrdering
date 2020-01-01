@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSideModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <SideModel>
+    <Name>CHEESY GARLIC BREAD</Name>
+    <SmallImagePath>Images/SidesSmall/CheesyGarlicBread.png</SmallImagePath>
+    <Energy>2652</Energy>
+    <Price>5.00</Price>    
+    <Options>
+      <SideModel>
+        <Name>CHEESY GARLIC BREAD</Name>
+        <LargeImagePath>Images/SidesLarge/CheesyGarlicBread1.jpg</LargeImagePath>
+        <Energy>2652</Energy>
+        <Description>Freshly oven baked herb &amp; garlic bread, topped with stretchy mozzarella.</Description>
+        <Price>5.00</Price>
+      </SideModel>
+      <SideModel>
+        <Name>VEGAN CHEESY GARLIC BREAD</Name>
+        <LargeImagePath>Images/SidesLarge/CheesyGarlicBread2.jpg</LargeImagePath>
+        <Energy>2910</Energy>
+        <Description>Hot, creamy plant based vegan cheese on crispy garlic bread topped with spring onion.</Description>
+        <Price>7.00</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>OVEN BAKED CHIPS</Name>
+    <SmallImagePath>Images/SidesSmall/Chips.png</SmallImagePath>
+    <Energy>2470</Energy>
+    <Price>5.00</Price>    
+    <Options>
+      <SideModel>
+        <Name>OVEN BAKED CHIPS</Name>
+        <LargeImagePath>Images/SidesLarge/Chips1.jpg</LargeImagePath>
+        <Energy>2470</Energy>
+        <Description>Oven baked chips dusted with chicken salt.</Description>
+        <Price>5.00</Price>
+      </SideModel>
+      <SideModel>
+        <Name>POTATO WEDGES</Name>
+        <LargeImagePath>Images/SidesLarge/Chips2.jpg</LargeImagePath>
+        <Energy>2840</Energy>
+        <Description>Golden, oven baked potato wedges with a Sweet Chilli dipping sauce &amp; sour cream.</Description>
+        <Price>6.00</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>GARLIC BREAD</Name>
+    <SmallImagePath>Images/SidesSmall/GarlicBread.png</SmallImagePath>
+    <Energy>2470</Energy>
+    <Price>4.00</Price>    
+    <Options>
+      <SideModel>
+        <Name>GARLIC BREAD</Name>
+        <LargeImagePath>Images/SidesLarge/GarlicBread1.jpg</LargeImagePath>
+        <Energy>2470</Energy>
+        <Description>Hot, traditional loaves of Garlic Bread.</Description>
+        <Price>4.00</Price>
+      </SideModel>
+      <SideModel>
+        <Name>GARLIC BREAD &amp; 2 X 375ML PEPSI</Name>
+        <LargeImagePath>Images/SidesLarge/GarlicBread2.jpg</LargeImagePath>
+        <Energy>2883</Energy>
+        <Description>Garlic Bread &amp; 2 x 375mL Pepsi</Description>
+        <Price>5.00</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>CHEESE &amp; GARLIC SCROLLS</Name>
+    <SmallImagePath>Images/SidesSmall/GarlicScrolls.png</SmallImagePath>
+    <Energy>3930</Energy>
+    <Price>5.00</Price>    
+    <Options>
+      <SideModel>
+        <Name>CHEESE &amp; GARLIC SCROLLS (4 PIECES)</Name>
+        <LargeImagePath>Images/SidesLarge/GarlicScrolls1.jpg</LargeImagePath>
+        <Energy>2620</Energy>
+        <Description>4 Freshly baked scrolls with tasty mozzarella cheese and drizzled in garlic butter and then dusted with parmesan and herb sprinkle.</Description>
+        <Price>5.00</Price>
+      </SideModel>
+      <SideModel>
+        <Name>CHEESE &amp; GARLIC SCROLLS (6 PIECES)</Name>
+        <LargeImagePath>Images/SidesLarge/GarlicScrolls2.jpg</LargeImagePath>
+        <Energy>3930</Energy>
+        <Description>6 Freshly baked scrolls with tasty mozzarella cheese and drizzled in garlic butter and then dusted with parmesan and herb sprinkle.</Description>
+        <Price>7.00</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>DIPPING SAUCES</Name>
+    <SmallImagePath>Images/SidesSmall/DippingSauces.png</SmallImagePath>
+    <Energy>310</Energy>
+    <Price>0.60</Price>    
+    <Options>
+      <SideModel>
+        <Name>AIOLI DIPPING SAUCE</Name>
+        <LargeImagePath>Images/SidesLarge/DippingSauces1.jpg</LargeImagePath>
+        <Energy>310</Energy>
+        <Description>Aioli dipping sauce</Description>
+        <Price>0.60</Price>
+      </SideModel>
+      <SideModel>
+        <Name>RANCH DIPPING SAUCE</Name>
+        <LargeImagePath>Images/SidesLarge/DippingSauces2.jpg</LargeImagePath>
+        <Energy>334</Energy>
+        <Description>Ranch dipping sauce</Description>
+        <Price>0.60</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>CHICKEN WINGS 5 PACK</Name>
+    <SmallImagePath>Images/SidesSmall/ChickenWings.png</SmallImagePath>
+    <Energy>2000</Energy>
+    <Price>6.45</Price>    
+    <Options>
+      <SideModel>
+        <Name>CREAMY RANCH CHICKEN WINGS</Name>
+        <LargeImagePath>Images/SidesLarge/ChickenWings1.jpg</LargeImagePath>
+        <Energy>2000</Energy>
+        <Description>Tasty oven roasted chicken wings topped with delicious creamy ranch.</Description>
+        <Price>6.45</Price>
+      </SideModel>
+      <SideModel>
+        <Name>OVEN ROASTED CHICKEN WINGS WITH NO SAUCE</Name>
+        <LargeImagePath>Images/SidesLarge/ChickenWings2.jpg</LargeImagePath>
+        <Energy>1830</Energy>
+        <Description>Oven roasted chicken wings with no sauce</Description>
+        <Price>7.15</Price>
+      </SideModel>
+      <SideModel>
+        <Name>KOREAN STICKY WINGS</Name>
+        <LargeImagePath>Images/SidesLarge/ChickenWings3.jpg</LargeImagePath>
+        <Energy>2230</Energy>
+        <Description>Oven roasted chicken wings coated with a spicy Korean sauce, sesame seeds and fresh spring onion</Description>
+        <Price>6.95</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>CHICKEN MINI MEATBALLS</Name>
+    <SmallImagePath>Images/SidesSmall/ChickenMeatBalls.png</SmallImagePath>
+    <Energy>2020</Energy>
+    <Price>5.00</Price>    
+    <Options>
+      <SideModel>
+        <Name>CHICKEN MINI MEATBALLS (NO SAUCE)</Name>
+        <LargeImagePath>Images/SidesLarge/ChickenMeatBalls1.jpg</LargeImagePath>
+        <Energy>2020</Energy>
+        <Description>15 mini meatballs made with a tasty chicken mince</Description>
+        <Price>5.00</Price>
+      </SideModel>
+      <SideModel>
+        <Name>CREAMY RANCH CHICKEN MINI MEATBALLS</Name>
+        <LargeImagePath>Images/SidesLarge/ChickenMeatBalls2.jpg</LargeImagePath>
+        <Energy>2490</Energy>
+        <Description>15 mini meatballs made with a tasty chicken mince topped with a creamy ranch sauce</Description>
+        <Price>6.00</Price>
+      </SideModel>
+      <SideModel>
+        <Name>BBQ CHICKEN MINI MEATBALLS</Name>
+        <LargeImagePath>Images/SidesLarge/ChickenMeatBalls3.jpg</LargeImagePath>
+        <Energy>2210</Energy>
+        <Description>15 mini meatballs made with a tasty chicken mince topped with a smoky Hickory BBQ sauce</Description>
+        <Price>6.00</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+
+  <SideModel>
+    <Name>SPICY PRAWNS</Name>
+    <SmallImagePath>Images/SidesSmall/SpicyPrawns.png</SmallImagePath>
+    <Energy>596</Energy>
+    <Price>5.95</Price>    
+    <Options>
+      <SideModel>
+        <Name>SPICY PRAWNS 9 PACK (NO SAUCE)</Name>
+        <LargeImagePath>Images/SidesLarge/SpicyPrawns1.jpg</LargeImagePath>
+        <Energy>596</Energy>
+        <Description>9 prawns coated with a spicy batter</Description>
+        <Price>5.95</Price>
+      </SideModel>
+      <SideModel>
+        <Name>SPICY PRAWNS 9 PACK</Name>
+        <LargeImagePath>Images/SidesLarge/SpicyPrawns2.jpg</LargeImagePath>
+        <Energy>908</Energy>
+        <Description>9 prawns coated with a spicy batter, served with ranch dipping sauce</Description>
+        <Price>5.95</Price>
+      </SideModel>
+    </Options>
+  </SideModel>
+  
+</ArrayOfSideModel>

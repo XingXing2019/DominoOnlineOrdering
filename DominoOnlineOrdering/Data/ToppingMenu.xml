@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToppingModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <ToppingModel>
+    <Name>Baby Spinach</Name>
+    <SmallImagePath>Images/Topping/BabySpinach.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Fresh Tomato</Name>
+    <SmallImagePath>Images/Topping/FreshTomato.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Italian Sausage</Name>
+    <SmallImagePath>Images/Topping/ItalianSausage.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Rasher Bacon</Name>
+    <SmallImagePath>Images/Topping/RasherBacon.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Reasoned Chicken</Name>
+    <SmallImagePath>Images/Topping/ReasonedChicken.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Sliced Avocado</Name>
+    <SmallImagePath>Images/Topping/SlicedAvocado.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Capsicum</Name>
+    <SmallImagePath>Images/Topping/Capsicum.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Chilli Flakes</Name>
+    <SmallImagePath>Images/Topping/ChilliFlakes.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>0.50</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Feta</Name>
+    <SmallImagePath>Images/Topping/Feta.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Pepper</Name>
+    <SmallImagePath>Images/Topping/FireRoastedPepper.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.50</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Garlic Sauce</Name>
+    <SmallImagePath>Images/Topping/GarlicSauce.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Ground Beef</Name>
+    <SmallImagePath>Images/Topping/GroundBeef.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Mayonnaise</Name>
+    <SmallImagePath>Images/Topping/Mayonnaise.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Mozzarella</Name>
+    <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Mushroom</Name>
+    <SmallImagePath>Images/Topping/Mushroom.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Olives</Name>
+    <SmallImagePath>Images/Topping/Olives.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.50</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Oregano</Name>
+    <SmallImagePath>Images/Topping/Oregano.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>0.50</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Pepperoni</Name>
+    <SmallImagePath>Images/Topping/Pepperoni.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Pineapple</Name>
+    <SmallImagePath>Images/Topping/Pineapple.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>2.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Prawns</Name>
+    <SmallImagePath>Images/Topping/Prawns.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>3.00</Price>
+  </ToppingModel>
+
+  <ToppingModel>
+    <Name>Red Onion</Name>
+    <SmallImagePath>Images/Topping/RedOnion.png</SmallImagePath>
+    <LargeImagePath></LargeImagePath>
+    <Energy>0</Energy>
+    <Description></Description>
+    <Price>1.00</Price>
+  </ToppingModel>
+
+  </ArrayOfToppingModel>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPizzaModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <PizzaModel>
+    <Name>AVOCADO VEG</Name>
+    <SmallImagePath>Images/PizzaSlice/AvocadoVeg.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/AvocadoVeg.png</LargeImagePath>
+    <Description>Slices of avocado, Kalamata olives, fire roasted pepper strips, mushrooms, red onion &amp; vibrant capsicum, topped with spring onions.</Description>
+    <Price>15.55</Price>
+    <Energy>4432</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Sliced Avocado</Name>
+        <SmallImagePath>Images/Topping/SlicedAvocado.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Capsicum</Name>
+        <SmallImagePath>Images/Topping/Capsicum.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Mushroom</Name>
+        <SmallImagePath>Images/Topping/Mushroom.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Olives</Name>
+        <SmallImagePath>Images/Topping/Olives.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.50</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>MEATLOVERS</Name>
+    <SmallImagePath>Images/PizzaSlice/BBQMeatLovers.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/BBQMeatLovers.png</LargeImagePath>
+    <Description>Mega loaded, mega tasty. Featuring seasoned chicken, pork &amp; fennel sausage, crumbled beef, pepperoni slices, Italian sausage &amp; crispy rasher bacon, brought together with a Hickory BBQ sauce.</Description>
+    <Price>18.95</Price>
+    <Energy>5832</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Ground Beef</Name>
+        <SmallImagePath>Images/Topping/GroundBeef.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Reasoned Chicken</Name>
+        <SmallImagePath>Images/Topping/ReasonedChicken.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Rasher Bacon</Name>
+        <SmallImagePath>Images/Topping/RasherBacon.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>CHEESY GARLIC</Name>
+    <SmallImagePath>Images/PizzaSlice/CheeseGarlicPizza.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/CheesyGarlicPizza.png</LargeImagePath>
+    <Description>Stretchy mozzarella, classic garlic sauce &amp; oregano on a crème fraiche base.</Description>
+    <Price>5.00</Price>
+    <Energy>4256</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Oregano</Name>
+        <SmallImagePath>Images/Topping/Oregano.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>0.50</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Garlic Sauce</Name>
+        <SmallImagePath>Images/Topping/GarlicSauce.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>HAWAIIAN</Name>
+    <SmallImagePath>Images/PizzaSlice/Hawaiian.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/Hawaiian.png</LargeImagePath>
+    <Description>A classic pairing of smoky leg ham &amp; sweet pineapple pieces.</Description>
+    <Price>7.95</Price>
+    <Energy>4416</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Pineapple</Name>
+        <SmallImagePath>Images/Topping/Pineapple.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Italian Sausage</Name>
+        <SmallImagePath>Images/Topping/ItalianSausage.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>PEPPERONI</Name>
+    <SmallImagePath>Images/PizzaSlice/Pepperoni.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/Pepperoni.png</LargeImagePath>
+    <Description>A Domino's classic. Slices of crispy pepperoni &amp; creamy mozzarella.</Description>
+    <Price>5.00</Price>
+    <Energy>4672</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Pepperoni</Name>
+        <SmallImagePath>Images/Topping/Pepperoni.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>SIMPLY CHEESE</Name>
+    <SmallImagePath>Images/PizzaSlice/SimplyCheese.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/SimplyCheese.png</LargeImagePath>
+    <Description>Simply topped with lots of melted mozzarella goodness.</Description>
+    <Price>5.00</Price>
+    <Energy>4216</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>SPICY VEG TRIO</Name>
+    <SmallImagePath>Images/PizzaSlice/SpicyVegTrio.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/SpicyVegTrio.png</LargeImagePath>
+    <Description>A vegetarian trio including fresh baby spinach, sliced red onion &amp; diced tomato, finished with a kick of chilli flakes.</Description>
+    <Price>5.00</Price>
+    <Energy>3728</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Red Onion</Name>
+        <SmallImagePath>Images/Topping/RedOnion.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Chilli Flakes</Name>
+        <SmallImagePath>Images/Topping/ChilliFlakes.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>0.50</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Fresh Tomato</Name>
+        <SmallImagePath>Images/Topping/FreshTomato.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Baby Spinach</Name>
+        <SmallImagePath>Images/Topping/BabySpinach.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>SUPREME</Name>
+    <SmallImagePath>Images/PizzaSlice/Supreme.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/Supreme.png</LargeImagePath>
+    <Description>Crispy rasher bacon, pepperoni &amp; Italian sausage, topped with fresh mushrooms, capsicum, crumbled beef &amp; juicy pineapple, finished with vibrant spring onions &amp; oregano.</Description>
+    <Price>15.95</Price>
+    <Energy>4992</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Rasher Bacon</Name>
+        <SmallImagePath>Images/Topping/RasherBacon.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Ground Beef</Name>
+        <SmallImagePath>Images/Topping/GroundBeef.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Capsicum</Name>
+        <SmallImagePath>Images/Topping/Capsicum.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Pepperoni</Name>
+        <SmallImagePath>Images/Topping/Pepperoni.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Pineapple</Name>
+        <SmallImagePath>Images/Topping/Pineapple.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>TACO FIESTA</Name>
+    <SmallImagePath>Images/PizzaSlice/TacoFiesta.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/TacoFiesta.png</LargeImagePath>
+    <Description>Seasoned ground beef, vibrant capsicum, diced tomato &amp; red onion on a cheese sauce base, all tied together with creamy taco sauce.</Description>
+    <Price>15.75</Price>
+    <Energy>4320</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Capsicum</Name>
+        <SmallImagePath>Images/Topping/Capsicum.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Ground Beef</Name>
+        <SmallImagePath>Images/Topping/GroundBeef.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Red Onion</Name>
+        <SmallImagePath>Images/Topping/RedOnion.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Fresh Tomato</Name>
+        <SmallImagePath>Images/Topping/FreshTomato.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+  <PizzaModel>
+    <Name>GODFATHER</Name>
+    <SmallImagePath>Images/PizzaSlice/TheGodFather.png</SmallImagePath>
+    <LargeImagePath>Images/PizzaWhole/TheGodFather.png</LargeImagePath>
+    <Description>Domino's pepperoni paired with Italian sausage, fresh capsicum, diced tomato &amp; Kalamata olives, finished with creamy garlic sauce &amp; oregano.</Description>
+    <Price>15.15</Price>
+    <Energy>4792</Energy>
+    <Toppings>
+      <ToppingModel>
+        <Name>Mozzarella</Name>
+        <SmallImagePath>Images/Topping/MozzarellaCheese.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Garlic Sauce</Name>
+        <SmallImagePath>Images/Topping/GarlicSauce.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Capsicum</Name>
+        <SmallImagePath>Images/Topping/Capsicum.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.00</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Olives</Name>
+        <SmallImagePath>Images/Topping/Olives.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>1.50</Price>
+      </ToppingModel>
+      <ToppingModel>
+        <Name>Pepperoni</Name>
+        <SmallImagePath>Images/Topping/Pepperoni.png</SmallImagePath>
+        <LargeImagePath></LargeImagePath>
+        <Energy>0</Energy>
+        <Description></Description>
+        <Price>2.00</Price>
+      </ToppingModel>
+    </Toppings>
+  </PizzaModel>
+
+</ArrayOfPizzaModel>

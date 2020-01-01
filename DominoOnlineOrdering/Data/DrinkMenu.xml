@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDrinkModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DrinkModel>
+    <Name>COOKIES &amp; CREAM THICKSHAKE</Name>
+    <SmallImagePath>Images/DrinkSmall/CookiesCream.png</SmallImagePath>
+    <Energy>3550</Energy>
+    <Price>5.95</Price>
+    <Options>
+      <DrinkModel>
+        <Name>COOKIES THICKSHAKE</Name>
+        <LargeImagePath>Images/DrinkLarge/Cookies.png</LargeImagePath>
+        <Energy>3050</Energy>
+        <Description>Handcrafted Cookies &amp; Cream Thickshake made with real ice cream, not soft serve. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>4.95</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>COOKIES THICKSHAKE WITH CREAM &amp; SAUCE</Name>
+        <LargeImagePath>Images/DrinkLarge/CookiesCream.png</LargeImagePath>
+        <Energy>3550</Energy>
+        <Description>Handcrafted Cookies &amp; Cream Thickshake made with real ice cream, not soft serve. Topped with whipped cream and a chocolate syrup swirl. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>5.95</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>MALTED VANILLA THICKSHAKE</Name>
+    <SmallImagePath>Images/DrinkSmall/MaltedVanillaCream.png</SmallImagePath>
+    <Energy>3260</Energy>
+    <Price>5.95</Price>
+    <Options>
+      <DrinkModel>
+        <Name>MALTED VANILLA THICKSHAKE</Name>
+        <LargeImagePath>Images/DrinkLarge/MaltedVanilla.jpg</LargeImagePath>
+        <Energy>2780</Energy>
+        <Description>Handcrafted Traditional Malted Vanilla Thickshake made with real ice cream, not soft serve. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>4.95</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>MALTED VANILLA THICKSHAKE WITH CREAM &amp; MALT SYRUP</Name>
+        <LargeImagePath>Images/DrinkLarge/MaltedVanillaCream.jpg</LargeImagePath>
+        <Energy>3260</Energy>
+        <Description>Handcrafted Traditional Malted Vanilla Thickshake made with real ice cream, not soft serve and topped with whipped cream and a malt syrup swirl. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>5.95</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>SALTED CARAMEL THICKSHAKE</Name>
+    <SmallImagePath>Images/DrinkSmall/SaltedCaramelCream.png</SmallImagePath>
+    <Energy>3430</Energy>
+    <Price>5.95</Price>
+    <Options>
+      <DrinkModel>
+        <Name>SALTED CARAMEL THICKSHAKE</Name>
+        <LargeImagePath>Images/DrinkLarge/SaltedCaramel.png</LargeImagePath>
+        <Energy>2940</Energy>
+        <Description>Handcrafted Traditional Salted Caramel Thickshake made with real ice cream, not soft serve. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>4.95</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>SALTED CARAMEL THICKSHAKE WITH CREAM &amp; CARAMEL SYRUP</Name>
+        <LargeImagePath>Images/DrinkLarge/SaltedCaramelCream.png</LargeImagePath>
+        <Energy>3430</Energy>
+        <Description>Handcrafted Salted Caramel Thickshake made with real ice cream, not soft serve and topped with whipped cream and a salted caramel syrup swirl. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>5.95</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>CHOCOLATE MALT THICKSHAKE</Name>
+    <SmallImagePath>Images/DrinkSmall/ChocolateMaltCream.png</SmallImagePath>
+    <Energy>3240</Energy>
+    <Price>5.95</Price>
+    <Options>
+      <DrinkModel>
+        <Name>CHOCOLATE MALT THICKSHAKE</Name>
+        <LargeImagePath>Images/DrinkLarge/ChocolateMalt.png</LargeImagePath>
+        <Energy>2740</Energy>
+        <Description>Handcrafted Chocolate Malt Thickshake made with real ice cream, not soft serve. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>4.95</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>CHOCOLATE MALT THICKSHAKE WITH CREAM &amp; CHOC SAUCE</Name>
+        <LargeImagePath>Images/DrinkLarge/ChocolateMaltCream.png</LargeImagePath>
+        <Energy>3240</Energy>
+        <Description>Handcrafted Chocolate Malt Thickshake made with real all natural ice cream, not soft serve and topped with whipped cream and a choc sauce swirl. Made at -14 degrees for the thickest thickshake ever!</Description>
+        <Price>5.95</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>PEPSI</Name>
+    <SmallImagePath>Images/DrinkSmall/Pepsi.png</SmallImagePath>
+    <Energy>656</Energy>
+    <Price>2.50</Price>
+    <Options>
+      <DrinkModel>
+        <Name>PEPSI</Name>
+        <LargeImagePath>Images/DrinkLarge/Pepsi1.jpg</LargeImagePath>
+        <Energy>656</Energy>
+        <Description>375ml</Description>
+        <Price>2.50</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>1.25L PEPSI</Name>
+        <LargeImagePath>Images/DrinkLarge/Pepsi2.jpg</LargeImagePath>
+        <Energy>2190</Energy>
+        <Description>1.25L</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>3 X 375 ML PEPSI</Name>
+        <LargeImagePath>Images/DrinkLarge/Pepsi3.jpg</LargeImagePath>
+        <Energy>1968</Energy>
+        <Description>3 X 375ml Pepsi</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>7 UP</Name>
+    <SmallImagePath>Images/DrinkSmall/7Up.png</SmallImagePath>
+    <Energy>680</Energy>
+    <Price>2.50</Price>
+    <Options>
+      <DrinkModel>
+        <Name>7 UP</Name>
+        <LargeImagePath>Images/DrinkLarge/7Up1.jpg</LargeImagePath>
+        <Energy>680</Energy>
+        <Description>375ml</Description>
+        <Price>2.50</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>1.25L 7 UP</Name>
+        <LargeImagePath>Images/DrinkLarge/7Up2.jpg</LargeImagePath>
+        <Energy>2275</Energy>
+        <Description>1.25L</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>3 X 375 ML 7 UP</Name>
+        <LargeImagePath>Images/DrinkLarge/7Up3.jpg</LargeImagePath>
+        <Energy>2040</Energy>
+        <Description>3 X 375ml 7 Up</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>SUNKIST</Name>
+    <SmallImagePath>Images/DrinkSmall/Sunkist.png</SmallImagePath>
+    <Energy>833</Energy>
+    <Price>2.50</Price>
+    <Options>
+      <DrinkModel>
+        <Name>SUNKIST</Name>
+        <LargeImagePath>Images/DrinkLarge/Sunkist1.jpg</LargeImagePath>
+        <Energy>833</Energy>
+        <Description>375ml</Description>
+        <Price>2.50</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>1.25L SUNKIST</Name>
+        <LargeImagePath>Images/DrinkLarge/Sunkist2.jpg</LargeImagePath>
+        <Energy>2775</Energy>
+        <Description>1.25L</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>3 X 375 ML SUNKIST</Name>
+        <LargeImagePath>Images/DrinkLarge/Sunkist3.jpg</LargeImagePath>
+        <Energy>2499</Energy>
+        <Description>3 X 375ml Sunkist</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+  <DrinkModel>
+    <Name>MOUNTAIN DEW</Name>
+    <SmallImagePath>Images/DrinkSmall/MountainDew.png</SmallImagePath>
+    <Energy>750</Energy>
+    <Price>2.50</Price>
+    <Options>
+      <DrinkModel>
+        <Name>MOUNTAIN DEW</Name>
+        <LargeImagePath>Images/DrinkLarge/MountainDew1.jpg</LargeImagePath>
+        <Energy>750</Energy>
+        <Description>375ml</Description>
+        <Price>2.50</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>1.25L MOUNTAIN DEW</Name>
+        <LargeImagePath>Images/DrinkLarge/MountainDew2.jpg</LargeImagePath>
+        <Energy>2500</Energy>
+        <Description>1.25L</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+      <DrinkModel>
+        <Name>3 X 375 ML MOUNTAIN DEW</Name>
+        <LargeImagePath>Images/DrinkLarge/MountainDew3.jpg</LargeImagePath>
+        <Energy>2250</Energy>
+        <Description>3 X 375ml Mountain Dew</Description>
+        <Price>5.00</Price>
+      </DrinkModel>
+    </Options>
+  </DrinkModel>
+
+</ArrayOfDrinkModel>
