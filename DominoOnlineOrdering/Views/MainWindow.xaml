@@ -152,7 +152,7 @@
 
             <!--Logo and Title-->
             <StackPanel Orientation="Horizontal">
-                <Image Source="Images/Logos/Logo.png" Height="40"/>
+                <Image Source="Images/Logos/Logo.png" Height="60"/>
                 <TextBlock Text="ONLINE ORDERING" Foreground="White" VerticalAlignment="Center" Margin="20 0" FontSize="30" FontWeight="Bold"/>
             </StackPanel>
 
